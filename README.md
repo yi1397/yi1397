@@ -1,5 +1,6 @@
 ## 정유일의 GitHub
-![repo](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Image-processing-eel-sorter&cache_seconds=86400&theme=radical)
+![repo](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Image-processing-eel-sorter&cache_seconds=86400&theme=default)
+![repo](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Food-Menu-Display-Wallpaper&cache_seconds=86400&theme=default)
 ### Skillset
 * OpenCV
 * Qt
