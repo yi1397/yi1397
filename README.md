@@ -1,4 +1,5 @@
 ## 정유일의 GitHub
+![github stats](https://github-readme-stats.vercel.app/api?username=yi1397&theme=dark&show_icons=true)
 ### Skillset
 * OpenCV
 * Qt
