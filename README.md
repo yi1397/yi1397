@@ -1,4 +1,4 @@
-## 정유일의 GitHub
+# 정유일의 GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1397&layout=compact)](https://github.com/yi1397)
 
 [![repo1](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Image-processing-eel-sorter&cache_seconds=86400&theme=buefy)](https://github.com/yi1397/Image-processing-eel-sorter)
