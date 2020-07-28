@@ -1,5 +1,5 @@
 ## 정유일의 GitHub
-![github stats](https://github-readme-stats.vercel.app/api?username=yi1397&theme=dark&show_icons=true)
+![repo](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Image-processing-eel-sorter&cache_seconds=86400&theme=radical)
 ### Skillset
 * OpenCV
 * Qt
