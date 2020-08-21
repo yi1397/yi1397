@@ -1,6 +1,4 @@
 # 정유일의 GitHub
-[![repo1](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Image-processing-eel-sorter&cache_seconds=86400&theme=buefy)](https://github.com/yi1397/Image-processing-eel-sorter)
-[![repo2](https://github-readme-stats.vercel.app/api/pin/?username=yi1397&repo=Food-Menu-Display-Wallpaper&cache_seconds=86400&theme=buefy)](https://github.com/yi1397/Food-Menu-Display-Wallpaper)
 <h3>Tech Stack</h3>
 
 * 💻 C++ | Python | C#
