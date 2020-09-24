@@ -1,5 +1,6 @@
 # 정유일의 GitHub
-<h3>Tech Stack</h3>
+전자회로에 관심이 많은 고등학생입니다
+<h3>기술 스택</h3>
 
 * 💻 C++ | Python | C#
 * 👩‍💻 OpenCV | Qt5 | WPF | WinForm
