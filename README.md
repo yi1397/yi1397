@@ -3,12 +3,10 @@
 
 * 💻 C++ | Python | C# | js
 * 👩‍💻 OpenCV | Qt5 | WPF | WinForm | jQuery
+
+
 * 🔧 AVR | Arduino | Electronic Circuit
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1397&layout=compact&hide=makefile)](https://github.com/yi1397)
-<br/>
--->
 
 
 <!--
