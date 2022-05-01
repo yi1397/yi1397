@@ -1,11 +1,9 @@
 # 정유일의 GitHub
 <h3>기술 스택</h3>
 
-* 💻 C++ | Python | C# | js
-* 👩‍💻 OpenCV | Qt5 | WPF | WinForm | jQuery
-
-
-* 🔧 AVR | Arduino | Electronic Circuit
+* 💻 C++ | Python | js
+* 👩‍💻 Flask | jQuery | Qt5 | OpenCV
+* 🔧 Linux | ARM | AVR | Electronic Circuit
 
 
 
