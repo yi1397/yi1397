@@ -1,8 +1,8 @@
 # 정유일의 GitHub
 <h3>기술 스택</h3>
 
-* 💻 C++ | Python | js
-* 👩‍💻 Flask | jQuery | Qt5 | OpenCV
+* 💻 C++ | Python | Bash | js
+* 👩‍💻 FastAPI | jQuery | Qt5 | OpenCV
 * 🔧 Linux | ARM | AVR | Electronic Circuit
 
 
