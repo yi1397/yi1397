@@ -1,9 +1,10 @@
 # 정유일의 GitHub
 <h3>기술 스택</h3>
 
-* 💻 C++ | Python | Bash | js
-* 👩‍💻 FastAPI | jQuery | Qt5 | OpenCV
+* 💻 C/ASM | JS | Elixir
+* 👩‍💻 jQuery | Phoenix | Fastify
 * 🔧 Linux | ARM | AVR | Electronic Circuit
+* ↔️ NGINX
 
 
 
