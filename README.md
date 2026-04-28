@@ -3,7 +3,7 @@
 
 * 💻 C/ASM | JS | Elixir
 * 👩‍💻 jQuery | Phoenix | Fastify
-* 🔧 Linux | ARM | AVR | Electronic Circuit
+* 🔧 Android | Linux | ARM | AVR | Electronic Circuit
 * ↔️ NGINX
 
 
